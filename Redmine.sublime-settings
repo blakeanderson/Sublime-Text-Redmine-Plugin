@@ -1,0 +1,13 @@
+{
+	// Redmine URL
+	"redmine_url": "", 
+
+	// Redmine User ID
+	"redmine_user_id": "",
+
+	// Redmine Username
+	"username": "",
+
+	// Redmine Password
+	"password": ""
+}
