@@ -3,7 +3,7 @@ Sublime Text 2 Redmine
 
 Overview
 --------
-View your assigned redmine issues in the quick panel
+View your assigned redmine issues in the quick panel, and opens your selection in a web browser.
 
 Installation
 ------------
