@@ -1,0 +1,3 @@
+[
+  { "keys": ["ctrl+shift+m"], "command": "stuff_to_do" } // display all issues assigned to user
+]
