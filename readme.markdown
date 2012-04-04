@@ -13,11 +13,12 @@ Go to your Sublime Text 2 `Packages` directory
  - OS X: `~/Library/Application Support/Sublime Text 2/Packages/`
  - Windows: `%APPDATA%/Sublime Text 2/Packages/`
  - Linux: `~/.Sublime Text 2/Packages/`
+ - Ubuntu: `~/.config/sublime-text-2/Packages/`
 
 and clone the repository using the command below:
 
 ``` shell
-git clone https://github.com/blakeanderson/sublime-text-redmine-plugin.git Redmine
+git clone https://github.com/blakeanderson/Sublime-Text-Redmine-Plugin.git Redmine
 ```
 
 Settings
@@ -32,7 +33,7 @@ Add your redmine url, user id, username, and password, then your set.
 		// Redmine URL
 		"redmine_url": "", 
 
-		// Redmine User ID
+		// Redmine User ID: click logged in as 'username' and enter number on the very right of the url
 		"redmine_user_id": "",
 
 		// Redmine Username
